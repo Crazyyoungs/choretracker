@@ -86,6 +86,7 @@ L['chore:warWithin:patch_11_2_0:quests:makingDeposit'] = '[S3] 포식자의 공�
 L['chore:warWithin:patch_11_2_0:quests:moreThanPhase'] = '[S3] 지나가는 과정 그 이상'
 L['chore:warWithin:patch_11_2_0:quests:specialAssignment'] = '[S3] 특수 임무'
 L['chore:warWithin:patch_11_2_0:quests:warrant'] = '[S3] 영장'
+L['chore:warWithin:patch_11_2_0:quests:worldBoss'] = "[S3] 월드 보스"
 
 L['chore:warWithin:patch_11_1_5:quests:nightfallIncursion'] = '[S2] 침입'
 L['chore:warWithin:patch_11_1_5:quests:nightfallScenario'] = '[S2] 일몰 시나리오'
@@ -305,6 +306,7 @@ L['questName:87307'] = '25x 넘치는쓰레기통/빛나는 쓰레기 깡통'
 L['missing_skill_level'] = '|cFFFF00FF직업 창 열기!|r'
 L['remove_specialAssignment'] = '특별 과제: '
 L['skip_undermine_cartel'] = '이번 주 무역회사 연합 계약에 서명하세요$'
+L['turn_in_list'] = "제출 목록!"
 
 -- Auto-Accept
 L['autoAccept:acceptQuest'] = '퀘스트 수락'
